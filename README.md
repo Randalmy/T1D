@@ -1,4 +1,4 @@
-# to build a web application that can retrieve genomic information of variantsfrom all known associations to T1D and integrate them with population and functional information.It should also be capable to produce informative plots and analyses in this regard.Specifically, the web application should satisfy the following requirements:
+to build a web application that can retrieve genomic information of variantsfrom all known associations to T1D and integrate them with population and functional information.It should also be capable to produce informative plots and analyses in this regard.Specifically, the web application should satisfy the following requirements:
 
 1. The user should be able to retrieve SNP information given either its name (rs value), genomic
 coordinates (chromosome, start and end), and gene name.
